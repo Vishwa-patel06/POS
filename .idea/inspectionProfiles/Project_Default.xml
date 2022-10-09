@@ -1,0 +1,38 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPep8NamingInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="N806" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="typing.NamedTuple.multi_hand_landmarks" />
+          <option value="str.include" />
+          <option value="productSettings.models.ProductDetailsModel.objects" />
+          <option value="posadmin.models.ShopSettingsModel.*" />
+          <option value="accounts.models.ProfileModel.objects" />
+          <option value="addressDetails.models.CustomerAddressModel.objects" />
+          <option value="addressDetails.models.DistrictModel.objects" />
+          <option value="addressDetails.models.StateModel.objects" />
+          <option value="productDetails.models.ProductDetailsModel.objects" />
+          <option value="customerDetails.models.CustomerDetailsModel.objects" />
+          <option value="universal.models.ShopSettingsModel.objects" />
+          <option value="productDetails.models.ProductCategoryModel.objects" />
+          <option value="saleDetails.models.SellProductReflectionModel.objects" />
+          <option value="saleDetails.models.SaleTransactionModel.objects" />
+          <option value="UserDetails.models.UserDetailsModel.objects" />
+          <option value="django.db.models.fields.files.ImageField.url" />
+          <option value="userProjects.models.ProjectImages.objects" />
+          <option value="django.db.models.base.Model.get_queryset" />
+          <option value="Universal.models.UniversalKeyModel.objects" />
+          <option value="UserDetails.models.UserModel.objects" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>

@@ -1,0 +1,10 @@
+pip install django
+pip install Pillow
+pip install django-admin-interface
+pip install django-smart-selects
+pip install django-import-export
+pip install djangorestframework
+pip install djangorestframework-simplejwt
+pip install django-cors-headers
+pip install python-dotenv
+pip install twilio
